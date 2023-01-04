@@ -1,0 +1,1 @@
+nasm -felf64 q22.asm && gcc q22.o && ./a.out

@@ -1,0 +1,14 @@
+q1ai
+gcc -o q1ai q1ai.c -pthread
+
+q1aii
+gcc -o q1aii q1aii.c -pthread
+
+q1bi
+
+gcc -o q1bi q1bi.c -pthread
+
+q1bii
+
+gcc -o q1bii q1bii.c -pthread
+

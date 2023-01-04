@@ -1,0 +1,5 @@
+queue1
+gcc -o queue1 queue1.c
+
+queue2
+gcc -o queue2 queue2.c

@@ -1,0 +1,39 @@
+q1ls
+gcc -o q1ls q1ls.c
+./q1ls
+
+q1cat
+gcc -o q1cat q1cat.c
+./q1cat
+
+q1date
+gcc -o q1date q1date.c
+./q1date
+
+q1rm
+gcc -o q1rm q1rm.c
+./q1rm
+
+q1mkdir
+gcc -o q1mkdir q1mkdir.c
+./q1mkdir
+
+q2ls
+gcc -o q2ls q2ls.c -pthread
+./q2ls
+
+q2cat
+gcc -o q2cat q2cat.c -pthread
+./q1cat
+
+q2date
+gcc -o q2date q2date.c -pthread
+./q2date
+
+q2rm
+gcc -o q2rm q2rm.c -pthread
+./q1rm
+
+q2mkdir
+gcc -o q2mkdir q2mkdir.c -pthread
+./q2mkdir

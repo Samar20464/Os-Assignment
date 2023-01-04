@@ -1,0 +1,6 @@
+FIFO1
+gcc -o FIFO1 FIFO1.c
+
+FIFO2
+gcc -o FIFO2 FIFO2.c
+

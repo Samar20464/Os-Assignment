@@ -1,0 +1,2 @@
+gcc -o q11 q11.c -pthread
+./q11
