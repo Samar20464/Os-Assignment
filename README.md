@@ -1,2 +1,2 @@
 # Os-Assignment
-Hi if you are doing this course on IIITD. Then welcome to the wrost nightmare of cse courses.
+Hi if you are doing this course on IIITD. Then welcome to the worst nightmare of cse courses.
